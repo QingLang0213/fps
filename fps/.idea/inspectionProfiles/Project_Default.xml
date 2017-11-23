@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E502" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="fps.NW" />
+          <option value="fps.Label" />
+          <option value="fps.Button" />
+          <option value="fps.END" />
+          <option value="fps.Frame" />
+          <option value="fps.StringVar" />
+          <option value="fps.Entry" />
+          <option value="fps.RIGHT" />
+          <option value="fps.BOTH" />
+          <option value="fps.Y" />
+          <option value="fps.Scrollbar" />
+          <option value="fps.Text" />
+          <option value="fps.NORMAL" />
+          <option value="fps.DISABLED" />
+          <option value="fps.Tk" />
+          <option value="MyThread.END" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
